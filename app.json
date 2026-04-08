@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "MeshApp",
+    "slug": "meshapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.meshapp.app"
+    },
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}

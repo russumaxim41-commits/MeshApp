@@ -1,0 +1,16 @@
+{
+  "name": "MeshApp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android"
+  },
+  "dependencies": {
+    "expo": "~55.0.0",
+    "expo-asset": "~55.0.12",
+    "expo-file-system": "~55.0.14",
+    "react": "18.2.0",
+    "react-native": "0.74.5"
+  }
+}
